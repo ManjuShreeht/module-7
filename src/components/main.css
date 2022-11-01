@@ -1,0 +1,28 @@
+.main{
+    margin-top:50px;
+    width:100%;
+    height:80vh;
+   
+   
+}
+.main img{
+    width:90%;
+    height:80vh;
+    margin-left: 7%;
+}
+
+
+@media screen and (max-width:900px){
+    .main{
+        margin-top:20px;
+       height:20vh;
+       
+       
+    }
+    .main img{
+        width:90%;
+        height:20vh;
+        margin-left: 4%;
+        overflow-x: hidden;
+    } 
+}

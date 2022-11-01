@@ -25,7 +25,7 @@ const count=useSelector(state=>state.count)
    
  
   return (
-    <div className='heading'>
+    <div className='heading1'>
       <h1 className='h1'>Products</h1>
    
     <div className='product'>

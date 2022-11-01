@@ -1,6 +1,6 @@
 .footer{
     margin-top: 50px;
-  
+  margin-left: 0px;
 }
 h3{
     font-family: 'Montserrat';
@@ -9,8 +9,8 @@ font-weight: 700;
 font-size: 24px;
 line-height: 32px;
 /* identical to box height, or 133% */
-margin-left: 140px;
-margin-right: 200px;
+padding-left: 140px;
+margin-right: 280px;
 letter-spacing: 0.1px;
 
 /* text-color */
@@ -21,7 +21,8 @@ color: #252B42;
     color: #23A6F0;
     width: 30%;
     cursor:pointer;
-  margin-left: 330px;
+  margin-left: 600px;
+  
 }
 .ico{ 
     margin-right: 10px;

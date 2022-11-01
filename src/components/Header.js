@@ -45,7 +45,7 @@ function Header() {
     <div className='flex'>
 
 < PermIdentityIcon  className="icon" />
-<p>Login / Register</p>
+<p className="log">Login / Register</p>
 </div>
       </Link>
 <div className='flex1'>
