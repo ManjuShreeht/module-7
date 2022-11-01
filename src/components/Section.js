@@ -1,8 +1,8 @@
 import React from 'react'
-import '../components/main.css'
+import '../components/section.css'
 import image1 from '../components/image1.png'
 
-function Main() {
+function Section() {
   return (
     <div className='main'>
       <img src={image1} alt=" "/>
@@ -10,4 +10,4 @@ function Main() {
   )
 }
 
-export default Main
+export default Section

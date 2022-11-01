@@ -7,14 +7,14 @@ import About from './components/About'
 import ProductList from './components/ProductList'
 
 import Footer from './components/Footer'
-import Main from './components/Main'
+import Section from './components/Section'
 
 function App() {
   return (
     <BrowserRouter>
     <div >
    <Routes>
-<Route path="/" element={[<Header />,<Main />,<ProductList />,<Footer />]} />
+<Route path="/" element={[<Header />,<Section/>,<ProductList />,<Footer />]} />
 <Route path="/about" element={[<Header />,<About />]} />
 
    </Routes>
