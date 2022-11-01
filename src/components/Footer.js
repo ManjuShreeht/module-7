@@ -62,7 +62,7 @@ function Footer() {
   return (
 
     <div className='footer'>
-        <h3>{usermessage}</h3>
+       
         <div className='footer_head'>
             <h3>Acciojob</h3>
             <div className='icons'>

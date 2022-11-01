@@ -20,10 +20,10 @@ color: #252B42;
 .icons{
     color: #23A6F0;
     width: 30%;
-    
+    cursor:pointer;
   margin-left: 330px;
 }
-.ico{
+.ico{ 
     margin-right: 10px;
 }
 .footer_head{
