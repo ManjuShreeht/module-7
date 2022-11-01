@@ -2,7 +2,7 @@
   "name": "module7-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ManjuShreeht.github.io/module7-test",
+  "homepage": "http://ManjuShreeht.github.io/module-7",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
