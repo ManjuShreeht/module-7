@@ -1,0 +1,146 @@
+.footer{
+    margin-top: 50px;
+  
+}
+h3{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+margin-left: 140px;
+margin-right: 200px;
+letter-spacing: 0.1px;
+
+/* text-color */
+
+color: #252B42;
+}
+.icons{
+    color: #23A6F0;
+    width: 30%;
+    
+  margin-left: 330px;
+}
+.ico{
+    margin-right: 10px;
+}
+.footer_head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer_row{
+   
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-right: 50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:100px;
+}
+hr{
+    margin:40px 190px;
+   
+   opacity: 0.3;
+}
+.footer_col{
+ 
+   
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 100px;
+    
+}
+h5{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.1px;
+
+/* text-color */
+
+color: #252B42;
+}
+p{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+}
+.form1 input{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    width:200px;
+    height: 50px;
+    padding:10px 20px;
+    background: #F9F9F9;
+border: 1px solid #E6E6E6;
+border-radius: 5px;
+border-right-style: none;
+}
+.form1 button{
+    width:100px;
+    padding: 0;
+    border-radius: 5px;
+    border-left-style: none;
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+   
+
+  background: #23A6F0;
+ 
+cursor: pointer;
+font-family: 'Montserrat';
+font-style: normal;
+height: 50px;
+/* primary-color */
+
+font-weight: 700;
+
+color:white;
+
+border: none;
+font-size: 18px;
+    
+}
+.ending{
+  margin-left: 0;  
+background: #FAFAFA;
+height:50px;
+width: 100%;
+margin-bottom: 1px;
+}
+.ending h6{
+    margin-left: 195px;
+   padding-top: 20px;
+   font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373
+ 
+}
